@@ -5,3 +5,4 @@
 <b>Our team:</b> Our current team is Shedeur B and their sister. <br><br>
 Official account for The Chatterbox Social Media. Owned, managed, and created by @ShedeurCoder. Visit us at https://the-chatterbox.herokuapp.com. <br>
 Source code available at https://github.com/OfficialTheChatterbox/source
+![logo (3)](https://user-images.githubusercontent.com/81215635/176163873-12ce18b4-bb88-48fc-8882-4d871feda4ff.png)
